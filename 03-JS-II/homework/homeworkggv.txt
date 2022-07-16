@@ -1,0 +1,9 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for` : la sentencia "for" se utiliza para ejecutar una parte de código mientras se cumpla determinada condición. Esto hace que se puedan ejecutar tareas que son repetitivas de una manera eficiente
+
+* `&&`: se corresponde con el término "y" o "and" en ingles; y se usa cuando queremos escribir condiciones para que el codigo ejecute una accion. En este caso el "&&" se usa para exigir que se cumplan todas las condiciones  
+
+  `||`: se corresponde al término "o" o "or" y se utiliza como condicional cuando queremos que se ejecute una parte del código se ocurren algunas de las condiciones que se encuentren comprendidas con el "||"
+
+   `!`: se corresponde al "no" o "not" en ingles y se usa cuando queremos establecer que algo es distino o no igual. 

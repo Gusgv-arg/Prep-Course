@@ -1,0 +1,12 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+ * Variables: son espacios en la memoria de la computadora en donde se guarda informacion para ser usada en cualquier momento. Hay distintos tipos de variables: caracteres, numeros, booleanas (verdadero o falso), direcciones, de tiempo, etc.
+
+
+ * Strings: representan caracteres que pueden ser letras, caracteres especiales o incluso numeros representados o utilizados como caracteres y no en formato de número.
+
+ * Funciones (argumentos, `return`): son instrucciones que pueden ser utilizadas varias veces dentro de un programa. Estas permiten acciones repetitivas y son una manera de no tener que volver a escribir codigo. Las funciones pueden recibir argumentos o parámetros que luego serán usados por la función para ejecutar la misma. El return se refiere a la devolucion que realiza la funcion, o sea la acción que queremos que realice o el valor que deberá devolver a quien haya invocado a la misma.  
+
+ * Declaraciones `if`: se utilizan como condicionales para ejecutar o no determinadas partes del código. 
+
+ * Valores booleanos (`true`, `false`): son variables que pueden tomar los valores de verdadero o falso solamente. No tienen más opciones que estas dos.

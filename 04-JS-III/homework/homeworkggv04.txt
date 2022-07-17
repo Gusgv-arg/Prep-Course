@@ -1,0 +1,1 @@
+Array: es un espacio en donde se puede guardar cualquier tipo de informacion (numeros, caracteres, funciones, booleanos, etc). Funciona como una lista o una base de datos para guardar los datos que yo quiera.

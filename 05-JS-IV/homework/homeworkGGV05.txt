@@ -1,0 +1,11 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: es una forma de tratar de representar las cosas que existen en la vida real. Java trata todo como objetos en donde podemos definir la cantidad de propiedades y valores que querramos para poder describir de la mejor manera al mismo
+
+	* Propiedades: son las caracteristicas que mejor describen al objeto.Por ejemplo, las propiedades del objeto cliente pueden ser nombre, apellido, edad, sexo, etc
+	
+    * Métodos: es una función que realiza determinada acción
+	
+    * Bucle `for…in': es una sintaxis distinta para iterar dentro de las clave-valor que tienen los objetos.
+	
+    * Notación de puntos vs notación de corchetes: son 2 formas de acceder o de asignar a los valores de cada propiedad de un objeto

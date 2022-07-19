@@ -1,0 +1,1 @@
+Funciones Callback: son funciones que llaman a otras funciones. Al llamar a las funciones se debe pasarse por paramtero y no invocarse.

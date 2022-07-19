@@ -1,0 +1,3 @@
+Prototype: son las propiedades y los metodos que son innatos de un objeto. Es decir, los objetos se dividen en clases de objetos en donde el prototipo seria el estandar minimo que tendria ese objeto (caracteristicas y metodos)
+
+Constructors (de Clases): es lo que se utiliza para definir distintas clases de objetos. Tambien podría deinirse como un creador de prototipos.
